@@ -19,4 +19,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: mehdi1upmc/gitops:hellov1.0
+        image: mehdi1upmc/gitops:hellov1.1
